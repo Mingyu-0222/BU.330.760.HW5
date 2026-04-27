@@ -32,3 +32,7 @@ python .\.agents\skills\text-file-parser\scripts\parse_text_file.py .\sample.pdf
 
 Result:
 The script returned an error because this skill only supports .txt files.
+
+
+### Video Link
+https://youtu.be/7oSTbZ99jU0
